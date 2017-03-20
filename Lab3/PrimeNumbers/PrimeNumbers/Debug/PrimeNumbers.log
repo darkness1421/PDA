@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\andrei\desktop\facultate\anul iii\parallel and distributed algorithms\lab\lab3\primenumbers\primenumbers\source.cpp(13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PrimeNumbers.vcxproj -> C:\Users\Andrei\Desktop\Facultate\Anul III\Parallel and Distributed Algorithms\Lab\Lab3\PrimeNumbers\Debug\PrimeNumbers.exe
+  PrimeNumbers.vcxproj -> C:\Users\Andrei\Desktop\Facultate\Anul III\Parallel and Distributed Algorithms\Lab\Lab3\PrimeNumbers\Debug\PrimeNumbers.pdb (Partial PDB)
